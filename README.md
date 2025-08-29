@@ -12,4 +12,12 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 - Total Quantity Sold: 19K
 - Average Sales Value: ₹40K
 
+## Business Insights Delivered :
+- Identified top-performing brands (Xiaomi, Vivo, Samsung, OnePlus, Apple) by sales quantity.
+- Revealed seasonal sales patterns, with peak in July and April, supporting inventory planning.
+- Mapped regional sales hotspots, highlighting high-performing cities like Bangalore, Hyderabad, and Kolkata.
+- Analyzed  payment preference trends, showing balanced adoption of UPI, debit card, and cash.
+- Highlighted weekday vs weekend sales trends, showing a steady drop towards weekends.
+
+
 
