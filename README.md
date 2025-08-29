@@ -19,5 +19,13 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 - Analyzed  payment preference trends, showing balanced adoption of UPI, debit card, and cash.
 - Highlighted weekday vs weekend sales trends, showing a steady drop towards weekends.
 
+## Visualization Techniques :
+- Map Chart for city-wise sales distribution.
+- Line Charts for monthly and day-wise sales patterns.
+- Bar Charts for brand performance and mobile model sales comparison.
+- Pie Chart for payment method distribution.
+- Funnel Chart for customer rating breakdown.
+
+
 
 
