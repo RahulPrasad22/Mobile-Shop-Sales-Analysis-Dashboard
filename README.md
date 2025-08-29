@@ -27,7 +27,7 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 - Funnel Chart for customer rating breakdown.
 
 ## Dashboard :
-<img width="1323" height="743" alt="Mobile_shop_sales_dashboard" src="https://github.com/user-attachments/assets/8d73c762-f3fc-42ca-a6ea-7c04ef06dbc8" />
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiODkzMzY2NTktNzE1My00NGM1LWIyMjEtN2Y3MjVmOWJjZDRhIiwidCI6ImU0YzUzOWI2LWMyNGEtNDdhMi1iMjg2LWJlN2ZhZTIzYmJjYyJ9">Dataset</a>
 
 
 ## Conclusion :
