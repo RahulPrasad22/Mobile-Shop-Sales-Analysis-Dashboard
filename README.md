@@ -30,7 +30,7 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 <img width="1323" height="743" alt="Mobile_shop_sales_dashboard" src="https://github.com/user-attachments/assets/8d73c762-f3fc-42ca-a6ea-7c04ef06dbc8" />
 
 
-## Impact :
+## Conclusion :
 - Reduced manual reporting time by 80% through automated real-time sales monitoring.
 - Enhanced sales forecasting accuracy, enabling targeted promotions in high-demand cities.
 - Improved strategic decision-making for product stock allocation and payment channel promotions.
