@@ -27,7 +27,8 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 - Funnel Chart for customer rating breakdown.
 
 ## Dashboard :
-- <b href="[https://github.com/RahulPrasad22/Mobile-Shop-Sales-Analysis-Dashboard/blob/main/Mobile_shop_sales_dashboard.png](https://github.com/RahulPrasad22/Mobile-Shop-Sales-Analysis-Dashboard/blob/main/Mobile_shop_sales_dashboard.png)">View Dashboard</b>
+<img width="1323" height="743" alt="Mobile_shop_sales_dashboard" src="https://github.com/user-attachments/assets/8d73c762-f3fc-42ca-a6ea-7c04ef06dbc8" />
+
 
 ## Impact :
 - Reduced manual reporting time by 80% through automated real-time sales monitoring.
