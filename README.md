@@ -26,8 +26,8 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 - Pie Chart for payment method distribution.
 - Funnel Chart for customer rating breakdown.
 
-## Dashboard :
-- <a href="https://app.powerbi.com/view?r=eyJrIjoiODkzMzY2NTktNzE1My00NGM1LWIyMjEtN2Y3MjVmOWJjZDRhIiwidCI6ImU0YzUzOWI2LWMyNGEtNDdhMi1iMjg2LWJlN2ZhZTIzYmJjYyJ9">Dataset</a>
+## Dashboard Interaction :
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiODkzMzY2NTktNzE1My00NGM1LWIyMjEtN2Y3MjVmOWJjZDRhIiwidCI6ImU0YzUzOWI2LWMyNGEtNDdhMi1iMjg2LWJlN2ZhZTIzYmJjYyJ9">View-my-Dashboard</a>
 
 
 ## Conclusion :
