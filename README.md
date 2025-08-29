@@ -26,6 +26,12 @@ Designed an interactive Power BI dashboard to monitor and analyze nation wide mo
 - Pie Chart for payment method distribution.
 - Funnel Chart for customer rating breakdown.
 
+## Impact :
+- Reduced manual reporting time by 80% through automated real-time sales monitoring.
+- Enhanced sales forecasting accuracy, enabling targeted promotions in high-demand cities.
+-> Improved strategic decision-making for product stock allocation and payment channel promotions.
+
+
 
 
 
